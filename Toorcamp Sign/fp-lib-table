@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "toorcamp-sign-lts")(type KiCad)(uri "$(KIPRJMOD)/toorcamp-sign-lts.pretty")(options "")(descr ""))
+)
