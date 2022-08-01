@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "torch-lts")(type KiCad)(uri "$(KIPRJMOD)/torch-lts.pretty")(options "")(descr ""))
+)
